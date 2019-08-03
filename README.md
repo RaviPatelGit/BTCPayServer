@@ -6,8 +6,8 @@ In case you are using Windows or Mac, You can use Visual studio. Visit [here](ht
 
 Visual studio is not availabe for Linux. You have to use Visual code. 
 
-Install Visual Studio Code : https://code.visualstudio.com/download
+1) Install Visual Studio Code : https://code.visualstudio.com/download
 
-Install .Net core : https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro Here you have to choose the Linux distribution you are using. I was using Ubuntu 18.04 x64. I am not sure but x64 stands for 64 bit version OS.
+2) Install .Net core : https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro Here you have to choose the Linux distribution you are using. I was using Ubuntu 18.04 x64. I am not sure but x64 stands for 64 bit version OS.
 
-Install Docker Compose  : https://docs.docker.com/compose/install/ 
+3) Install Docker Compose  : https://docs.docker.com/compose/install/ 
