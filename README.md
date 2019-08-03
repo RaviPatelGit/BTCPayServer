@@ -1,6 +1,8 @@
 # BTCPayServer 
 
-In case you are using Windows or Mac, You can use Visual studio. Visit [here](https://www.youtube.com/watch?v=ZePbMPSIvHM&feature=youtu.be).
+Guide on how to setup your Linux Machine for BTCPay Server development.
+
+In case you are using Windows or Mac, You can use Visual studio. Visit [this](https://www.youtube.com/watch?v=ZePbMPSIvHM&feature=youtu.be) video by Nicolas 
 
 ### Guide on how to setup your Linux Machine for BTCPay Server development
 
